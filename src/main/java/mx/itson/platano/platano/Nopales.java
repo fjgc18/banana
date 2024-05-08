@@ -6,7 +6,7 @@ package mx.itson.platano.platano;
 
 /**
  *
- * @author alumnog
+ * @author Gabs
  */
 public class Nopales {
     

@@ -7,7 +7,7 @@ package mx.itson.platano.platano;
 
 /**
  *
- * @author alumnog
+ * @author
  */
 public class Banana {
     ///hola
