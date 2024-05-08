@@ -10,5 +10,5 @@ package mx.itson.platano.platano;
  * @author alumnog
  */
 public class Banana {
-    ///hola 
+    ///hola
 }

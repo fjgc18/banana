@@ -12,7 +12,7 @@ public class Platano {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        
+        System.out.println("Nopales xd");
         System.out.println("Hello World!");
     }
 }
